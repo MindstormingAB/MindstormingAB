@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sandrine 🎶🎵
 
+I am a frontend developer and senior IT project manager at Mindstorming AB. As a certified SCRUM Master I am all about improving my teams' work processes and efficiency and delivering on-time and on-budget. As a frontend developer, I benefit from my project manager experience, my solution-driven personality and my 7 years as CRM Manager at a marketing department.
 <!--
 **MindstormingAB/MindstormingAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
