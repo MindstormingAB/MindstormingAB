@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Sandrine 🌟
 
 I am a __Fullstack developer__ and __senior IT project manager__ at Mindstorming AB.
+
 As a certified SCRUM Master I am all about improving my teams' work processes and efficiency and delivering on-time and on-budget.
+
 As a frontend developer, I benefit from my project manager experience, my solution-driven personality and my 7 years as CRM Manager at a marketing department.
 
 - 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) 
