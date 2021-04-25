@@ -10,7 +10,7 @@ As a frontend developer, I benefit from my project manager experience, my soluti
 - 🔨 Backend Tech: __Node.js, API, Express, Mongoose, Sanity__
 - 🔧 Other Tech and tools: __Git, Postman, Heroku, Netlify, Trello, Jira__
 - 🌱 I’m currently learning Figma and Wordpress
-- 📫 How to reach me: on [__LinkedIn__](https://www.linkedin.com/in/sandrine-elander-10498b4/) or by [__email__](mailto:techstorming@mindstorming.se)
+- 📫 How to reach me: on [__LinkedIn__](https://www.linkedin.com/in/sandrine-elander-10498b4/) or by [__email__](mailto:s.elander@mindstorming.se)
 - 👩 Pronouns: she/her
 - 🌼 Fun fact: When I'm not coding or planning releases, I'm recharging my batteries in my garden 🏡 
 
