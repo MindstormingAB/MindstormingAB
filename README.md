@@ -6,9 +6,9 @@ As a frontend developer, I benefit from my project manager experience, my soluti
 
 - 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) 
 - 🧾 I’m currently working on improving my portfolio. Check it out [here](https://www.mindstorming.se)
-- 🔧 Frontend Tech: __HTML, CSS, Javascript, React, Redux, Node.js__
-- 🔨 Backend Tech: __Node.js, Express, Mongoose__
-- ⚡ Other Tech: __API, Postman, Heroku, Netlify, Git, Sanity__
+- ⚡ Frontend Tech: __HTML, CSS, Javascript, React, Redux, Node.js, API__
+- 🔨 Backend Tech: __Node.js, API, Express, Mongoose, Sanity__
+- 🔧 Other Tech and tools: __Git, Postman, Heroku, Netlify, Trello, Jira__
 - 🌱 I’m currently learning Figma and Wordpress
 - 📫 How to reach me: on [__LinkedIn__](https://www.linkedin.com/in/sandrine-elander-10498b4/) or by [__email__](mailto:techstorming@mindstorming.se)
 - 👩 Pronouns: she/her
