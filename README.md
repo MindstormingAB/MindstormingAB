@@ -1,13 +1,14 @@
 ## Hi there 👋 I'm Sandrine 🌟
 
-I am a __Fullstack developer__ and __senior IT project manager__ at Mindstorming AB.
+I am a __UX Engineer__ and __senior IT project manager__ at Mindstorming AB.
 
 As a certified SCRUM Master I am all about improving my teams' work processes and efficiency and delivering on-time and on-budget.
 
 As a frontend developer, I benefit from my project manager experience, my solution-driven personality and my 7 years as CRM Manager at a marketing department.
 
-- 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) 
-- 🧾 I’m currently working on improving my portfolio. Check it out [here](https://www.mindstorming.se)
+- 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) and UX Design Bootcamp alumna (2022)
+<!--- 🧾 I’m currently working on improving my portfolio. Check it out [here](https://www.mindstorming.se)-->
+- 🧾 I’m currently working on an Progressive Web Application that aims to help people with epilepsy. Check it out [here](https://epilepsy-app-pwa.netlify.app/)
 - ⚡ Frontend Tech: __HTML, CSS, Javascript, React, Redux, Node.js, API__
 - 🔨 Backend Tech: __Node.js, API, Express, Mongoose, Sanity__
 - 🔧 Other Tech and tools: __Git, Postman, Heroku, Netlify, Trello, Jira__
