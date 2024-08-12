@@ -7,7 +7,7 @@ As a certified SCRUM Master I am all about improving my teams' work processes an
 As a frontend developer, I benefit from my project manager experience, my solution-driven personality and my 7 years as CRM Manager at a marketing department.
 
 - 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) and UX Design Bootcamp alumna (2022)
-- 🧾 I’m currently working on an Progressive Web Application that aims to help people with epilepsy. Check it out [here](https://app.epapp.se/){:target="_blank"}
+- 🧾 I’m currently working on an Progressive Web Application that aims to help people with epilepsy. Check it out [here](https://app.epapp.se/)
 - ⚡ Frontend Tech: __HTML, CSS, Javascript, React, Next.js, Redux, Node.js, API__
 - 🔨 Backend Tech: __Node.js, API, Express, Mongoose, Sanity__
 - 🌟 UX Design: __Design thinking, Interaction Design, Accessibility, Woreframing, Usability Testing__
