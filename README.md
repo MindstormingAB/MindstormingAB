@@ -8,10 +8,10 @@ As a frontend developer, I benefit from my project manager experience, my soluti
 
 - 📚 I'm a [Technigo](https://www.technigo.io/) Frontend Bootcamp alumna (Fall 2020) and UX Design Bootcamp alumna (2022)
 - 🧾 I’m currently working on an Progressive Web Application that aims to help people with epilepsy. Check it out [here](https://app.epapp.se/)
-- ⚡ Frontend Tech: __HTML, CSS, Javascript, React, Next.js, Redux, Node.js, API__
+- ⚡ Frontend Tech: __HTML, CSS, Javascript, React, Next.js, Redux, Dart, Flutter, Node.js, API__
 - 🔨 Backend Tech: __Node.js, API, Express, Mongoose, Sanity__
 - 🌟 UX Design: __Design thinking, Interaction Design, Accessibility, Woreframing, Usability Testing__
-- 🔧 Other Tech and tools: __Git, Postman, Heroku, Google Cloud, Netlify, Vercel, Trello, Jira, Figma, Figjam__
+- 🔧 Other Tech and tools: __Git, Postman, Heroku, Google Cloud, MongoDB, Netlify, Vercel, Trello, Jira, Figma, Figjam__
 - 📫 How to reach me: on [__LinkedIn__](https://www.linkedin.com/in/sandrine-elander/) or by [__email__](mailto:s.elander@mindstorming.se)
 - 👩 Pronouns: she/her
 - 💡 Fun fact: When I'm not coding or planning releases, I'm recharging my batteries with gardening 🌼, knitting 🧶 and dog walks 🐶
